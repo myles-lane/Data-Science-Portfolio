@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files [(published at RPubs)](https://rpubs.com/mlane123).
 
 # Contents
 
