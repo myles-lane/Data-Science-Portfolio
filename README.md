@@ -12,4 +12,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ### Micro Projects
   * Python
+   + ML using K Nearest Neighbors:[https://github.com/myles-lane/Data-Science-Portfolio/blob/master/Micro%20Projects/K-Nearest%20ML.ipynb] Using the KNN algorithm to classify whether a scale is leaning towards the left or right based on two points weight and distance from the center. Then using the elbow method to optimize the K value.
+   
   * R
