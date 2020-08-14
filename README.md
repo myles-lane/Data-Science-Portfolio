@@ -6,8 +6,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Machine Learning
 
-- ### Natural Language Processing
-
 - ### Data Analysis and Visualization
 
 - ### Micro Projects
