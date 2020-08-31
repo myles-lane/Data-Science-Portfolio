@@ -1,10 +1,12 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files [(published at RPubs)](https://rpubs.com/mlane123).
 
 # Contents
 
 - ### Machine Learning
+  * __Simple Linear Regression__
+    * [ML using SLR:](https://github.com/myles-lane/Data-Science-Portfolio/blob/master/Machine%20Learning/Simple-Linear-Regression.ipynb) Using simple linear regression to predict CO2 emissions of differernt cars.
 
 - ### Data Analysis and Visualization
 
