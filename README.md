@@ -9,6 +9,8 @@ Repository containing portfolio of data science projects completed by me for aca
     * [ML using SLR:](https://github.com/myles-lane/Data-Science-Portfolio/blob/master/Machine%20Learning/Simple-Linear-Regression.ipynb) Using simple linear regression to predict CO2 emissions of differernt cars.
   * __Decision Trees__
     * [ML using Decision Trees:](https://github.com/myles-lane/Data-Science-Portfolio/blob/master/Machine%20Learning/Decision-Trees.ipynb) Using decision trees to build a model from historical data of patients, and their response to different medications. Then using the model to predict the right drug for a new patient.
+  * __Support Vector Machines__
+    * [ML using SVM:](https://github.com/myles-lane/Data-Science-Portfolio/blob/master/Machine%20Learning/SVM.ipynb) Using SVM (Support Vector Machines) to build and train a model using human cell records, and classify cells to whether the samples are benign or malignant.
 
 - ### Data Analysis and Visualization
 
