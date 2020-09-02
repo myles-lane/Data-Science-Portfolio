@@ -11,6 +11,8 @@ Repository containing portfolio of data science projects completed by me for aca
     * [ML using Decision Trees:](https://github.com/myles-lane/Data-Science-Portfolio/blob/master/Machine%20Learning/Decision-Trees.ipynb) Using decision trees to build a model from historical data of patients, and their response to different medications. Then using the model to predict the right drug for a new patient.
   * __Support Vector Machines__
     * [ML using SVM:](https://github.com/myles-lane/Data-Science-Portfolio/blob/master/Machine%20Learning/SVM.ipynb) Using SVM (Support Vector Machines) to build and train a model using human cell records, and classify cells to whether the samples are benign or malignant.
+  * __Reccomendations Systems
+    * [Content-based System:](https://github.com/myles-lane/Data-Science-Portfolio/blob/master/Machine%20Learning/Content-RecSys.ipynb) Implementing a simple reccomendation to suggest movies based on user ratings.
 
 - ### Data Analysis and Visualization
 
